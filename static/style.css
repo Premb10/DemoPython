@@ -1,0 +1,13 @@
+.banner{
+    background: yellowgreen;
+    width: 100%;
+    height: 108px;
+    margin-bottom: 26px;
+}
+
+.banner-text{
+    top: 5%;
+    left: 44%;
+    position: absolute;
+    transform: scale3d(1.5, 1.5, 1.5);
+}
